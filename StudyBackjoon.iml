@@ -10,6 +10,11 @@
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1008" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p10998" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2557" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p10818" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p11382" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1546" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2562" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p3502" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
