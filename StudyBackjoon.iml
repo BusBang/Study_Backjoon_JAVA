@@ -15,6 +15,15 @@
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1546" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2562" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/p3502" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3/p10989" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day4/p10828" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day4/p10845" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day4/p10866" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day4/p1874" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day4/p9012" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
