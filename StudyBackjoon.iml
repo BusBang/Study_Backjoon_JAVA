@@ -33,6 +33,19 @@
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day5/p1764" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day5/p7785" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day5/p9375" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day5" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p10815" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p10816" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p10828" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p11478" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p11720" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p1302" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p17219" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p1764" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p1920" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2470" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2750" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p3273" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
