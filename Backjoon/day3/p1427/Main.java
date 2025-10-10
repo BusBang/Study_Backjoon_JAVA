@@ -1,3 +1,5 @@
+package day3.p1427;
+
 import java.io.*;
 import java.util.*;
 

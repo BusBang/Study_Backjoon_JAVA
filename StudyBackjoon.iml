@@ -5,16 +5,24 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Backjoon" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" type="java-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1000" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1001" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1008" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p10998" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2557" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p10818" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p11382" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1546" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2562" />
-      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p3502" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p1000" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p1001" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p1008" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p10998" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p11382" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1/p2557" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2/p10818" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2/p1546" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2/p2562" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2/p3502" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2/p8958" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3/p10989" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3/p2108" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3/p2750" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3/p2751" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day1" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day2" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/day3" />
@@ -46,6 +54,33 @@
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2470" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2750" />
       <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p3273" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p1012" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p11724" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p1697" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2178" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2473" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2606" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p14226" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/onedayprj/p2667" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv1" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p17681" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p42862" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p42889" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42578" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42587" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42746" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42747" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42748" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42860" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42883" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42885" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p60058" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p81302" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p42884" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p43238" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv4" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv4/p43236" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
