@@ -67,8 +67,11 @@
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p17681" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p42862" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv1/p42889" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p12900" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42578" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42587" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42626" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42746" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42747" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42748" />
@@ -77,10 +80,27 @@
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p42885" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p60058" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv2/p81302" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv3" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p42884" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p42898" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p43105" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv3/p43238" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv4" />
       <excludeFolder url="file://$MODULE_DIR$/programmers/lv4/p43236" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/binarysearch" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/dfsbfs/p1844" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/dfsbfs/p43162" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/dfsbfs/p43164" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/dfsbfs/p43165" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/hash" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/hash/p1845" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/hash/p42576" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/hash/p42577" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/hash/p42578" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/stackqueue" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/stackqueue/p12906" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/stackqueue/p42583" />
+      <excludeFolder url="file://$MODULE_DIR$/programmers/practicekit/stackqueue/p42586" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
