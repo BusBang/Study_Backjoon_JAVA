@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Backjoon/p1000" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1001" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p1008" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p10998" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p11382" />
+      <excludeFolder url="file://$MODULE_DIR$/Backjoon/p2557" />
+      <excludeFolder url="file://$MODULE_DIR$/src" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
